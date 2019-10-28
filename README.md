@@ -1,5 +1,5 @@
 # Online Shop
-Ecommerce Website for Imamima Online Shop
+Ecommerce Website for Online Shop
 
 Prepared by: Tawhida Shorif
 
